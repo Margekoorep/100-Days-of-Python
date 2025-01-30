@@ -1,7 +1,7 @@
 print("Welcome to the guessing game!")
 print("I'm thinking a nuber from 1-100.")
 import random
-rand_number= random.randint(1,101)
+rand_number= random.randint(1,100)
 #print(rand_number)
 difficulty= input("Choose difficulty. Type 'easy' or 'hard': ")
 
